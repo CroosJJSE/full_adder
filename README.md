@@ -1,4 +1,4 @@
-# full_adder
+# N_bit full_adder
 basic System Verilog implementation
 
 this is full adder skelaton
